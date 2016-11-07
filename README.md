@@ -1,2 +1,2 @@
 # Vue-Pikaday
-VueJS Wrapper for Pickaday
+VueJS Wrapper for Pikaday
